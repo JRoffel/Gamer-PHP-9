@@ -15,15 +15,31 @@
 p {
 	color: white;
 	font-family: arial;
+	padding: 10px;
 }
 
 label {
 	color: white;
 	font-family: arial;
+	padding: 20px;
 }
 
 h1 {
 	color: white;
 	font-family: arial;
-	font-size: 40px;
+	font-size: 50px;
+	padding: 30px;
+}
+
+input {
+	width: 300px;
+}
+
+.button {
+	color: white;
+	width: 250px;
+	height: 100px;
+	font-family: arial;
+	font-size: 60px;
+	background-image: url('button.jpg');
 }
