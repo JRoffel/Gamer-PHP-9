@@ -6,8 +6,8 @@
 </head>
 <body>
 	<div class="container">
-
-
+		<h1>Jouw profiel</h1>
+		<p>Je favoriete spel is</p>
 
 	</div>
 </body>
