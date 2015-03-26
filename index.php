@@ -15,7 +15,7 @@
 
 			<p>
 				<label>&nbsp;</label>
-				<span><input type="submit" value="Send"/></span>
+				<span><input class="button" type="submit" value="Send"/></span>
 			</p>
 		</form>
 	</div>
