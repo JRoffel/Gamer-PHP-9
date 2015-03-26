@@ -23,6 +23,7 @@
 			    echo '<p>Je speelt meer dan 15 spellen per jaar</p>';
 			  }
 			?>
+		<p>Je speelt op<?php if (isset($_POST['pc'])){echo " de PC,";} if (isset($_POST['wii'])){echo " de WAA,";} if (isset($_POST['xb_360'])){echo " de XBAV 360,";} if (isset($_POST['ps_3'])){echo " de Playstation 3.";} ?> </p>
 	</div>
 </body>
 </html>
