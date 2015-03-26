@@ -6,6 +6,7 @@
 </head>
 <body>
 	<div class="container">
+		<h1>Gamer</h1>
 		<form method="post" action="response.php">
 			<p>
 				<label>Wat is je favoriete spel?</label>
