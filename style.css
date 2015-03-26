@@ -29,6 +29,10 @@ label {
 	font-family: arial;
 }
 
+p {
+	padding: 20px;
+}
+
 h1 {
 	color: white;
 	font-family: arial;
@@ -41,6 +45,10 @@ input {
 }
 
 input[type=radio] {
+	width: 20px;
+}
+
+input[type=checkbox] {
 	width: 20px;
 }
 
