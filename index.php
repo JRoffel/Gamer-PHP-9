@@ -6,14 +6,11 @@
 </head>
 <body>
 	<div class="container">
-<<<<<<< HEAD
-=======
 		<form method="post" action="response.php">
 			<p>
 				<label>Wat is je favoriete spel?</label>
 				<span><input type="text" name="game"/></span>
 			</p>
->>>>>>> origin/master
 
 			<p>
 				<label>&nbsp;</label>
