@@ -11,3 +11,19 @@
 	height: 800px;
 	background-color: #0000B8;
 }
+
+p {
+	color: white;
+	font-family: arial;
+}
+
+label {
+	color: white;
+	font-family: arial;
+}
+
+h1 {
+	color: white;
+	font-family: arial;
+	font-size: 40px;
+}
