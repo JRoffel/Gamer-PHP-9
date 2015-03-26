@@ -34,6 +34,17 @@
 			</p>
 
 			<p>
+				<label>Hoeveel computerspellen speel je per jaar?</label>
+				<span>
+					<ul>
+						<li><input type="radio" name="count" value="one"> Minder dan 5</li>
+						<li><input type="radio" name="count" value="two"> Tussen 5 en 15</li>
+						<li><input type="radio" name="count" value="three"> Meer dan 15</li>
+					</ul>
+				</span>
+			</p>
+
+			<p>
 				<label>&nbsp;</label>
 				<span><input class="button" type="submit" value="Send"/></span>
 			</p>
