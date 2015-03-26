@@ -12,16 +12,21 @@
 	background-color: #0000B8;
 }
 
-p {
+div {
 	color: white;
 	font-family: arial;
 	padding: 10px;
 }
 
+form div * {
+	vertical-align: top;
+}
+
 label {
+	display: inline-block;
+	width: 300px;
 	color: white;
 	font-family: arial;
-	padding: 20px;
 }
 
 h1 {
@@ -35,6 +40,10 @@ input {
 	width: 200px;
 }
 
+input[type=radio] {
+	width: 20px;
+}
+
 .button {
 	color: white;
 	width: 250px;
@@ -46,6 +55,7 @@ input {
 
 ul {
 	list-style-type: none;
+	display: inline-block;
 }
 
 ul li {

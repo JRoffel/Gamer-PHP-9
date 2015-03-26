@@ -8,12 +8,12 @@
 	<div class="container">
 		<h1>Gamer</h1>
 		<form method="post" action="response.php">
-			<p>
+			<div>
 				<label>Wat is je favoriete spel?</label>
 				<span><input type="text" name="game"/></span>
-			</p>
+			</div>
 
-			<p>
+			<div>
 				<label>Wat is je favoriete genre?</label>
 				<span>
 					<select name="genre">
@@ -31,9 +31,9 @@
 						<option>Strategy</option>
 					</select>
 				</span>
-			</p>
+			</div>
 
-			<p>
+			<div>
 				<label>Hoeveel computerspellen speel je per jaar?</label>
 				<span>
 					<ul>
@@ -42,12 +42,12 @@
 						<li><input type="radio" name="count" value="three"> Meer dan 15</li>
 					</ul>
 				</span>
-			</p>
+			</div>
 
-			<p>
+			<div>
 				<label>&nbsp;</label>
 				<span><input class="button" type="submit" value="Send"/></span>
-			</p>
+			</div>
 		</form>
 	</div>
 </body>
