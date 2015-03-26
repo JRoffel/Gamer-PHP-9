@@ -17,6 +17,7 @@
 				<label>Wat is je favoriete genre?</label>
 				<span>
 					<select name="genre">
+						<option>Please Select One</option>
 						<option>Action</option>
 						<option>Adventure</option>
 						<option>Cover Based Shooter</option>
