@@ -47,10 +47,10 @@
 			<div>
 				<label>Op welke platformen speel je?</label>
 				<ul>
-					<li><input type="checkbox" name="pc"> PC</li>
-					<li><input type="checkbox" name="wii"> WAA</li>
-					<li><input type="checkbox" name="xb_360"> XBAV 360</li>
-					<li><input type="checkbox" name="ps_3"> Playstation 3</li>
+					<li><input type="checkbox" name="platform[]" value="PC">PC</li>
+					<li><input type="checkbox" name="platform[]" value="WAA">WAA</li>
+					<li><input type="checkbox" name="platform[]" value="XBAV 360">XBAV 360</li>
+					<li><input type="checkbox" name="platform[]" value="Playstation 3">Playstation 3</li>
 				</ul>
 			</div>
 
