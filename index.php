@@ -17,14 +17,14 @@
 				<label>Wat is je favoriete genre?</label>
 				<span>
 					<select name="genre">
-						<option>Please Select One</option>
+						<option>None</option>
 						<option>Action</option>
 						<option>Adventure</option>
 						<option>Cover Based Shooter</option>
 						<option>First Person Shooter</option>
 						<option>Hack 'n Slash</option>
 						<option>Management Sim</option>
-						<option>Puzzel</option>
+						<option>Puzzle</option>
 						<option>Racing</option>
 						<option>Racing</option>
 						<option>Role Playing</option>
