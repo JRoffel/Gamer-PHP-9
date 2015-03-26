@@ -17,7 +17,7 @@
 				<label>Wat is je favoriete genre?</label>
 				<span>
 					<select name="genre">
-						<option>None</option>
+						<option></option>
 						<option>Action</option>
 						<option>Adventure</option>
 						<option>Cover Based Shooter</option>
@@ -42,6 +42,16 @@
 						<li><input type="radio" name="count" value="three"> Meer dan 15</li>
 					</ul>
 				</span>
+			</div>
+
+			<div>
+				<label>Op welke platformen speel je?</label>
+				<ul>
+					<li><input type="checkbox" name="pc"> PC</li>
+					<li><input type="checkbox" name="wii"> WAA</li>
+					<li><input type="checkbox" name="xb_360"> XBAV 360</li>
+					<li><input type="checkbox" name="ps_3"> Playstation 3</li>
+				</ul>
 			</div>
 
 			<div>
